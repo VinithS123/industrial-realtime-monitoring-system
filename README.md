@@ -17,7 +17,7 @@ PRISM is a Spring Boot monitoring and diagnostics system that tracks machine sen
 ## UI Preview
 
 <p align="center">
-  <img src="src/main/resources/static/ui-screenshot.png" alt="PRISM UI Screenshot" width="850" />
+  <img src="backend/src/main/resources/static/ui-screenshot.png" alt="PRISM UI Screenshot" width="850" />
 </p>
 
 ## Key Features
